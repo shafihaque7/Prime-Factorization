@@ -1,0 +1,12 @@
+Files included
+1. bv.h //the bit vector operation and abstract data type
+2. bv.c //implements the functional of bv.h which is the bitvector
+3. sieve.h //The interface of sieve
+4. sieve.c //implements the sieve functionality
+5. parfait.c // contains the main() and call everything else
+
+Sieve of Eratosthenes is used to calculate the prime numbers.
+This is a program that prints out the prime numbers, composite numbers and perfect numbers. 
+
+To compile the program you type "make all".
+To run the program, you type "./parfait"
